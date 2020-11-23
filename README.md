@@ -17,3 +17,12 @@ Exercises from the course Praktikum Interactive Machine Learning at University o
 1. Normalization, balancing data
 2. Support Vector Machines Classifier.
 3. Basic Keras implementation.
+
+## 03_Neural_Networks
+
+#### Classifying Pokemons with CNN
+
+1. OpenCV
+2. Building own Sequential model with keras
+3. Transfer Learning - VGG16
+4. Tensorboard
