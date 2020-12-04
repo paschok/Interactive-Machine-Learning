@@ -26,3 +26,11 @@ Exercises from the course Praktikum Interactive Machine Learning at University o
 2. Building own Sequential model with keras
 3. Transfer Learning - VGG16
 4. Tensorboard
+
+## 04_Cooperative_ML
+
+#### Classifying Pokemons with Neural Networks, pretraining the model, Building GUI 
+
+1. GUI with ipywidgets
+2. Building own Sequential model with keras
+3. Transfer Learning - VGG16
