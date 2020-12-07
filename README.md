@@ -7,7 +7,9 @@ Exercises from the course Praktikum Interactive Machine Learning at University o
 2. README.md : update
 
 -----
-### All work is done in <i>exercise_notebook.ipynb</i> files
+### All(mostly all) work is done in <i>exercise_notebook.ipynb</i> files
+### Model or Weights files are not pushed here, because they take a lot of memory. More practical would be to run model urself and obtain needed weights.
+### imgs-folder can be found in root directory. Paths to this folder in notebooks are outdated
 -----
 
 ## 02_ML_Basics
@@ -32,5 +34,12 @@ Exercises from the course Praktikum Interactive Machine Learning at University o
 #### Classifying Pokemons with Neural Networks, pretraining the model, Building GUI 
 
 1. GUI with ipywidgets
-2. Building own Sequential model with keras
+2. Building own Functional model with keras
 3. Transfer Learning - VGG16
+
+## 05_eXplainable_AI
+
+#### Classifying Pokemons with Neural Networks, Building GUI to visualise convolutional blocks and filters, Lime framework
+
+1. GUI with ipywidgets to visualise convolutional blocks and filters
+2. Lime for visualizing model-predicting explanations
