@@ -43,3 +43,10 @@ Exercises from the course Praktikum Interactive Machine Learning at University o
 
 1. GUI with ipywidgets to visualise convolutional blocks and filters
 2. Lime for visualizing model-predicting explanations
+
+## btc_eth_LSTM
+
+#### The final Project of the Course. My part part the task was to build LSTM-network for Bitcoin and Ethereum Prediction
+
+1. Bitcoin prediction for one day ahead using 4 features and a sequence of 1/3/7 days
+2. Ethereum prediction for one day ahead using one feature
